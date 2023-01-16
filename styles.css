@@ -1,0 +1,36 @@
+.box {
+  background: rgb(255, 215, 160);
+  margin: 10px;
+  overflow: hidden;
+}
+
+#form {
+  display: none;
+}
+
+#form .box {
+  height: 40rem;
+}
+
+#library .box {
+  text-align: justify;
+}
+
+.img-container {
+  text-align: center;
+}
+
+.img-container img {
+  height: 45vh;
+  width: 35vh;
+  margin: 1vh;
+}
+
+.boxDel {
+  text-align: right;
+}
+
+.delBtn {
+  font-size: small;
+  border-radius: 25%;
+}

@@ -1,0 +1,6 @@
+function "displayLibrary" loops through the array and places each object in a generated div.box in the div.row; ---------------- ---------------------------------------
+function "add Book" generates a div with the form;                                     --------------------------------------------------------
+"submit" will create a new Book object and place it (unshift) in the myLibrary array;                        --------------------------------------------------------
+assign a button to "add book";                          --------------------------------------------------------
+assign a "remove book" btn to each entry;                --------------------------------------------------------
+ 
